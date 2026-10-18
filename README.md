@@ -13,6 +13,8 @@ This repo holds several versions that share one data and settlement layer.
 | Casino / racetrack you can walk around, with tables and a bookie | `apps/web-casino` | Planning: `docs/03-casino.md` |
 | Shared backend, data sources, settlement, repo setup | `packages/*` | Planning: `docs/04-shared-platform.md` |
 
+Building now: the plain web market, specced in `docs/05-web-market-spec.md`.
+
 Start with `docs/00-decisions.md`: the open questions from every plan in one place, each with a recommended default.
 
 ## Running the prototype
