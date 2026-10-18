@@ -94,9 +94,15 @@ and profit/loss.
   (Event · Outcome · Shares · Avg / Now · Value · P/L · status); tabs Open · Resolved · Activity.
 - Leaderboard: weekly and all-time profit.
 
+### Advanced mode
+
+A toggle for experienced players, off by default. It adds a depth chart per outcome (how far the odds
+move for a given stake; with our market maker this is a curve computed from the pricing, not an order
+book), 1H chart ranges, exact share counts and price-impact figures on every row.
+
 ### Not copying
 
-Order books and depth charts, 1H chart ranges, sportsbook promos and parlays, streak flames and
+Order books as the default view, 1H chart ranges outside advanced mode, sportsbook promos and parlays, streak flames and
 confetti, dollar signs on coins, deposit buttons, unsourced AI "market context", sorting ranges by %.
 
 ## Data we show
